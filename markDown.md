@@ -1,6 +1,6 @@
-# script
+# JavaScript
 
-starter program
+learnin JS
 
 ## Usage
 
